@@ -1,6 +1,8 @@
 # Fitness_Tracker
 An app created with MongoDB and Mongoose to track daily workouts.
 
+Link to the deployed app: https://hidden-hollows-79499.herokuapp.com
+
 # Table of contents
 #general-info
 #technologies
